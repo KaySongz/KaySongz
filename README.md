@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaySongz
-- 👀 I’m interested in Java,  PHP, Kotlin and everything hip.
-- 🌱 I’m currently learning Kotlin and node.
+- 👀 I’m interested in Java,  PHP, Javascript and everything hip.
+- 🌱 I’m currently learning Kotlin and React.
 - 📫 You can reach me through email at kaysongz@live.com
 
 <!---
